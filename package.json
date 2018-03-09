@@ -1,0 +1,25 @@
+{
+  "name": "qromps",
+  "version": "1.0.0",
+  "description": "qromps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topitsky/qromps.git"
+  },
+  "keywords": [
+    "qr",
+    "ar",
+    "unity",
+    "node"
+  ],
+  "author": "topitsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/topitsky/qromps/issues"
+  },
+  "homepage": "https://github.com/topitsky/qromps#readme"
+}
